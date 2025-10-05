@@ -2,11 +2,6 @@
 
 This repository provides a suite of Python simulations designed to visually demonstrate the behavior of fundamental stochastic processes. Its primary goal is to bridge the gap between abstract probability theory and tangible, intuitive results, serving as a computational companion to the theoretical report, "A Rigorous Analysis of Simulated Stochastic Processes."
 
-## Table of Contents
-- [Simulated Processes](#simulated-processes)
-- [Prerequisites](#prerequisites)
-- [How to Run a Simulation](#how-to-run-a-simulation)
-
 ## Simulated Processes
 
 The codebase includes simulations for the following twelve processes:
